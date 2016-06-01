@@ -1,5 +1,4 @@
 # Rocket's Red Glare
-My entry to the #p8jam2.
 
 The source code and cartridge for my entry to the p8jam2.
 
